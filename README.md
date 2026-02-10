@@ -37,9 +37,13 @@
 ```
 
 ### В данной работе были применены полученные знания:
+
 **Пример на Phone SE**
+
 ![Phone SE](img/responsivePhoneSE_Lab9_Morozova.png)
+
 **Пример на Ipad Mini**
+
 ![Phone SE](img/responsiveTablet_Lab9_Morozova.png)
 
 ### Результат
